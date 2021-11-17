@@ -34,7 +34,9 @@ ACC: Latest (Unknown Build)
 
 
 
-#Plans
+
+
+# Plans
 
 
 Add a list of hacks
@@ -54,3 +56,4 @@ Add Autoupdate and update from ingame
 Create AmethystScript. Custom coding languge for creating hacks, made simple
 
 If you have any other ideas Contact me on discord: Comicly#5090
+
