@@ -66,3 +66,7 @@ Im not sure if im going to make the client paid or not. I would like your sugges
 # Java
 
 Ok so I am going to use java but not sure if there is any way to merge some way with another coding language as I am not very fammilar with minecraft client coding. If anyone can help me with this please feel free to contact me at Comicly#5090 on discord!
+
+# Design
+
+I am working on the design for the ingame client but i kind of want to do something like vape that it has a external program that you use to enable/disable hacks, also a way to temperaly self-destruct but so you dont have to resart the game after u get screenshared.
