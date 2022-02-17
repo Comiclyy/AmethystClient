@@ -70,3 +70,7 @@ Ok so I am going to use java but not sure if there is any way to merge some way 
 # Design
 
 I am working on the design for the ingame client but i kind of want to do something like vape that it has a external program that you use to enable/disable hacks, also a way to temperaly self-destruct but so you dont have to resart the game after u get screenshared.
+
+# Developers
+
+I know most people dont care about this, so feel free to ignore it. If you would like to help me with anything, from the github to the coding Please contact me @ Comicly#5090
