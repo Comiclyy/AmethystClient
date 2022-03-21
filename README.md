@@ -20,7 +20,7 @@ Spartan
 
 # Bypass IDS
 
-Spartan: Version 447
+Spartan: Version 453
 
 Watchdog: Latest (Unknown build)
 
