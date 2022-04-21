@@ -44,7 +44,7 @@ Make Built in thealterning support. Example click NEW ACCOUNT Button and it will
 
 Add a Ingame serverlist of servers to hack on, with anticheat filter, automaticly remove servers the account is banned on
 
-Add a version slider, 1.8.x - 1.18.1 (Latest version)
+Add a version slider, 1.8.x - 1.18.2 (Latest version)
 
 Add a client version slider, change to older versions of the client.
 
@@ -62,8 +62,12 @@ If you have any other ideas Contact me on discord: Comicly#5090
 
 Im not sure if im going to make the client paid or not. I would like your suggestions if you have any idea on how this could work. If the client is paid it will be higher quality because I can hire devs to help me. If unpaid it may not be as high quality but it can be accessible to everyone. Not sure how much it will cost if paid. 
 
-#Update details
+# Update details
 Every time I update something to do with the client it will have a special Id and I will update the version. I will not add the special id if it is just updating something with readme.md or anything else that doesnt effect the client
+
+# Recent updates
+
+Created Dev repo for developing. I will be testing out my skills and just random stuff. https://github.com/Comicly69/AmethystDev If you want
 
 # Java
 
