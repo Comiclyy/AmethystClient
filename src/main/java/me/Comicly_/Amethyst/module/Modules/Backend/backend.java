@@ -7,5 +7,5 @@
     start=true
   get Amethystclient/.gitignore
   get Amethystclient/.mcignore
-      
+  get Comicapi/.api      
      
