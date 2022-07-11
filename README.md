@@ -69,7 +69,7 @@ Every time I update something to do with the client it will have a special Id an
 
 # Recent updates
 
-Created Dev repo for developing. I will be testing out my skills and just random stuff. https://github.com/Comicly69/AmethystDev If you want
+
 
 # Java
 
