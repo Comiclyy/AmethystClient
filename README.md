@@ -36,6 +36,8 @@ ACC: Latest (Unknown Build)
 
 # Plans
 
+Auto config
+
 Add a list of hacks
 
 Add Closet/Ghost mode?
