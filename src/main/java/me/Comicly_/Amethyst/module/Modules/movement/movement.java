@@ -1,1 +1,2 @@
-
+static string origin
+    originstring
